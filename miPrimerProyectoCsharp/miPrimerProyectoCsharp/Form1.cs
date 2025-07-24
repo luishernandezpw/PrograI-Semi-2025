@@ -17,5 +17,9 @@ namespace miPrimerProyectoCsharp {
         private void Form1_Load(object sender, EventArgs e) {
 
         }
+
+        private void btnSaludar_Click(object sender, EventArgs e) {
+            lblSaludo.Text = "¡Hola, " + txtNombre.Text + "!";
+        }
     }
 }
