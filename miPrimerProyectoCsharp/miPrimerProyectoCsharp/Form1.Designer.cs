@@ -37,6 +37,8 @@
             this.optSuma = new System.Windows.Forms.RadioButton();
             this.cboOpciones = new System.Windows.Forms.ComboBox();
             this.btnCalcularOpciones = new System.Windows.Forms.Button();
+            this.optPrimo = new System.Windows.Forms.RadioButton();
+            this.optFactorial = new System.Windows.Forms.RadioButton();
             this.grbOpciones.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -93,6 +95,8 @@
             // 
             // grbOpciones
             // 
+            this.grbOpciones.Controls.Add(this.optFactorial);
+            this.grbOpciones.Controls.Add(this.optPrimo);
             this.grbOpciones.Controls.Add(this.optExponente);
             this.grbOpciones.Controls.Add(this.optDivision);
             this.grbOpciones.Controls.Add(this.optMultiplicacion);
@@ -100,7 +104,7 @@
             this.grbOpciones.Controls.Add(this.optSuma);
             this.grbOpciones.Location = new System.Drawing.Point(173, 23);
             this.grbOpciones.Name = "grbOpciones";
-            this.grbOpciones.Size = new System.Drawing.Size(117, 174);
+            this.grbOpciones.Size = new System.Drawing.Size(117, 201);
             this.grbOpciones.TabIndex = 6;
             this.grbOpciones.TabStop = false;
             this.grbOpciones.Text = "Opciones";
@@ -165,7 +169,9 @@
             "Suma",
             "Resta",
             "Multiplicacion",
-            "Division"});
+            "Division",
+            "Primo",
+            "Factorial"});
             this.cboOpciones.Location = new System.Drawing.Point(298, 26);
             this.cboOpciones.Name = "cboOpciones";
             this.cboOpciones.Size = new System.Drawing.Size(121, 21);
@@ -180,6 +186,26 @@
             this.btnCalcularOpciones.Text = "Calcular";
             this.btnCalcularOpciones.UseVisualStyleBackColor = true;
             this.btnCalcularOpciones.Click += new System.EventHandler(this.btnCalcularOpciones_Click);
+            // 
+            // optPrimo
+            // 
+            this.optPrimo.AutoSize = true;
+            this.optPrimo.Location = new System.Drawing.Point(16, 140);
+            this.optPrimo.Name = "optPrimo";
+            this.optPrimo.Size = new System.Drawing.Size(51, 17);
+            this.optPrimo.TabIndex = 5;
+            this.optPrimo.Text = "Primo";
+            this.optPrimo.UseVisualStyleBackColor = true;
+            // 
+            // optFactorial
+            // 
+            this.optFactorial.AutoSize = true;
+            this.optFactorial.Location = new System.Drawing.Point(16, 163);
+            this.optFactorial.Name = "optFactorial";
+            this.optFactorial.Size = new System.Drawing.Size(65, 17);
+            this.optFactorial.TabIndex = 6;
+            this.optFactorial.Text = "Factorial";
+            this.optFactorial.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -221,6 +247,8 @@
         private System.Windows.Forms.RadioButton optExponente;
         private System.Windows.Forms.ComboBox cboOpciones;
         private System.Windows.Forms.Button btnCalcularOpciones;
+        private System.Windows.Forms.RadioButton optFactorial;
+        private System.Windows.Forms.RadioButton optPrimo;
     }
 }
 
