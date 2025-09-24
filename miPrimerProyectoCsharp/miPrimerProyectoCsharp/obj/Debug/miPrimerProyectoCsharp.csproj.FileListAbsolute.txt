@@ -22,3 +22,4 @@ D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerPro
 D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica_log.ldf
 C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica.mdf
 C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica_log.ldf
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPrincipal.resources
