@@ -26,3 +26,6 @@ D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerPro
 C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPrincipal.resources
 C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
 C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPeriodos.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPeriodos.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmNotas.resources
