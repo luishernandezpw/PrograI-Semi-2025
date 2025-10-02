@@ -9,9 +9,9 @@ using System.Data.SqlClient; //Esta Libreira me permite trabaja con SQL Server
 namespace miPrimerProyectoCsharp {
     internal class Conexion {
         //Definir los miembros de la clase, atributos y metodos.
-        SqlConnection objConexion = new SqlConnection(); //Conectarme a la BD.
-        SqlCommand objComando = new SqlCommand(); //Ejecutar SQL en la BD. Lectura, Actualizacion, Eliminacion, Insercion.
-        SqlDataAdapter objAdaptador = new SqlDataAdapter(); //un puente entre la BD y la aplicacion.
+        public SqlConnection objConexion = new SqlConnection(); //Conectarme a la BD.
+        public SqlCommand objComando = new SqlCommand(); //Ejecutar SQL en la BD. Lectura, Actualizacion, Eliminacion, Insercion.
+        public SqlDataAdapter objAdaptador = new SqlDataAdapter(); //un puente entre la BD y la aplicacion.
         DataSet objDs = new DataSet(); //Es una representacion de la arquitectura de la BD en memoria.
 
         public Conexion() { //Constructor. inicializador de los atributos
@@ -42,7 +42,7 @@ namespace miPrimerProyectoCsharp {
             }else if (accion == "eliminar") {
                 sql = "DELETE FROM alumnos WHERE idAlumno='"+ datos[0] +"'";
             }
-            return ejecutarSQL(sql, datos);
+            return ejecutarSQL(sql);
         }
         public string administrarDatosMaterias(String[] datos, String accion) {
             String sql = "";
@@ -53,9 +53,9 @@ namespace miPrimerProyectoCsharp {
             } else if (accion == "eliminar") {
                 sql = "DELETE FROM materias WHERE idMateria='"+ datos[0] +"'";
             }
-            return ejecutarSQL(sql, datos);
+            return ejecutarSQL(sql);
         }
-        private String ejecutarSQL(String sql, String[] datos) {
+        public String ejecutarSQL(String sql) {
             try {
                 objComando.Connection = objConexion;
                 objComando.CommandText = sql;
