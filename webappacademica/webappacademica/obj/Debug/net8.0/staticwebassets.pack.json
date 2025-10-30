@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\alumno.html",
+      "PackagePath": "staticwebassets\\views\\alumno.html"
+    },
+    {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_alumno.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_alumno.html"
+    },
+    {
       "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\index.html",
       "PackagePath": "staticwebassets\\views\\index.html"
     },
