@@ -1,28 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj": {}
+    "D:\\Users\\Estudiante\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj": {
+    "D:\\Users\\Estudiante\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj",
+        "projectUniqueName": "D:\\Users\\Estudiante\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj",
         "projectName": "webappacademica",
-        "projectPath": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj",
-        "packagesPath": "C:\\Users\\Luis Hernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\obj\\",
+        "projectPath": "D:\\Users\\Estudiante\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\webappacademica.csproj",
+        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Estudiante\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Luis Hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,34 +40,15 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "System.ComponentModel.Annotations": {
               "target": "Package",
-              "version": "[9.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.9, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -71,20 +57,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
