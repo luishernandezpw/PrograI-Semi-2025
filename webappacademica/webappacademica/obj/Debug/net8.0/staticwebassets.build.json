@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "STuzG6yHqFqk6aAbJaKY5DKNerMESgeksRhd9J90DrU=",
+  "Hash": "my12mZWcTmcLjmwodvqXsv9Scfzx/ZTaAPFUt1I3Dm8=",
   "Source": "webappacademica",
   "BasePath": "_content/webappacademica",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\views\\materia.html"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\matricula.html",
+      "SourceId": "webappacademica",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\",
+      "BasePath": "_content/webappacademica",
+      "RelativePath": "views/matricula.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\matricula.html"
     },
     {
       "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\periodo.html",

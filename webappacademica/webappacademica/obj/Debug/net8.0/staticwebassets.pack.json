@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\views\\materia.html"
     },
     {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\matricula.html",
+      "PackagePath": "staticwebassets\\views\\matricula.html"
+    },
+    {
       "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\periodo.html",
       "PackagePath": "staticwebassets\\views\\periodo.html"
     },
