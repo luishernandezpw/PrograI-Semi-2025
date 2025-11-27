@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "my12mZWcTmcLjmwodvqXsv9Scfzx/ZTaAPFUt1I3Dm8=",
+  "Hash": "oadAhMf5GXYAWoP4CFqg8u4kEPusBO2/v+zaz+dsEFw=",
   "Source": "webappacademica",
   "BasePath": "_content/webappacademica",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\views\\alumno.html"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\app.js",
+      "SourceId": "webappacademica",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\",
+      "BasePath": "_content/webappacademica",
+      "RelativePath": "views/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\app.js"
     },
     {
       "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_alumno.html",
@@ -110,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\views\\busqueda_materia.html"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_matricula.html",
+      "SourceId": "webappacademica",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\",
+      "BasePath": "_content/webappacademica",
+      "RelativePath": "views/busqueda_matricula.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\views\\busqueda_matricula.html"
     },
     {
       "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_periodo.html",

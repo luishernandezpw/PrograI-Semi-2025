@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\views\\alumno.html"
     },
     {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\app.js",
+      "PackagePath": "staticwebassets\\views\\app.js"
+    },
+    {
       "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_alumno.html",
       "PackagePath": "staticwebassets\\views\\busqueda_alumno.html"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_materia.html",
       "PackagePath": "staticwebassets\\views\\busqueda_materia.html"
+    },
+    {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_matricula.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_matricula.html"
     },
     {
       "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-Semi-2025\\webappacademica\\webappacademica\\wwwroot\\views\\busqueda_periodo.html",
